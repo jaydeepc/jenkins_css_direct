@@ -20,7 +20,7 @@ div.stage{
 
 .stage-name{
     background-color: #ffbe00;
-    font-size: 15px;
+    font-size: 20px;
     font-weight: bold;
 }
 
@@ -31,7 +31,7 @@ div#pipelines-1{
 div.task-content{
     color: black;
     font-weight: bold;
-    font-size: large;
+    font-size: medium;
     height: 25%;
     margin-bottom: 5px;
 }
