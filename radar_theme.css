@@ -10,6 +10,8 @@ body, table, form, input, td, th, p, textarea, select a {
 body {
     background-size: 100% 100%;
     background-image: url("cb.jpg");
+    width: 100%;
+
 }
 
 div.stage{
@@ -19,7 +21,6 @@ div.stage{
 .stage-name{
     background-color: gold;
     font-size: x-large;
-
 }
 
 div#pipelines-1{
@@ -37,4 +38,14 @@ div.stage-name{
 
 .pipeline-cell{
     width: 28%;
+}
+
+.pipeline{
+    width: 100%;
+    float: left;
+}
+
+.pipeline-main{
+    float: left;
+    width: 100%;
 }
