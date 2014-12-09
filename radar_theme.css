@@ -1,0 +1,33 @@
+@charset "utf-8";
+
+@import url(http://fonts.googleapis.com/css?family=Teko|The+Girl+Next+Door|Tulpen+One|Amatic+SC|Advent+Pro|Six+Caps|Shadows+Into+Light+Two|Laila);
+
+body, table, form, input, td, th, p, textarea, select a {
+    font-family: 'Advent Pro', cursive;
+    color: black;
+}
+
+body {
+    background-size: 100% 100%;
+    background-image: url("cb.jpg");
+}
+
+div.stage{
+    background: transparent;
+}
+
+.stage-name{
+    background-color: gold;
+}
+
+div#pipelines-1{
+    margin-bottom: 1cm;
+}
+
+div.task-content{
+    color: black;
+    font-weight: bold;
+}
+
+div.stage-name{
+}
