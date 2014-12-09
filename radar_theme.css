@@ -3,7 +3,7 @@
 @import url(http://fonts.googleapis.com/css?family=Teko|The+Girl+Next+Door|Tulpen+One|Amatic+SC|Advent+Pro|Six+Caps|Shadows+Into+Light+Two|Laila);
 
 body, table, form, input, td, th, p, textarea, select a {
-    font-family: 'Advent Pro', cursive;
+    font-family: 'Laila', cursive;
     color: black;
 }
 
@@ -19,8 +19,10 @@ div.stage{
 }
 
 .stage-name{
-    background-color: gold;
+    background-color: #3b93ff;
     font-size: 25px;
+    color: white;
+    font-weight: bold;
 }
 
 div#pipelines-1{
@@ -31,6 +33,8 @@ div.task-content{
     color: black;
     font-weight: bold;
     font-size: large;
+    height: 25%;
+    margin-bottom: 5px;
 }
 
 div.stage-name{
