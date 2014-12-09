@@ -20,7 +20,7 @@ div.stage{
 
 .stage-name{
     background-color: gold;
-    font-size: x-large;
+    font-size: 50px;
 }
 
 div#pipelines-1{
@@ -37,15 +37,5 @@ div.stage-name{
 }
 
 .pipeline-cell{
-    width: 25%;
-}
-
-.pipeline{
-    width: 100%;
-    float: left;
-}
-
-.pipeline-main{
-    float: left;
-    width: 100%;
+    width: 20%;
 }
