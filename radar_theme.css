@@ -18,6 +18,8 @@ div.stage{
 
 .stage-name{
     background-color: gold;
+    font-size: x-large;
+
 }
 
 div#pipelines-1{
@@ -27,7 +29,12 @@ div#pipelines-1{
 div.task-content{
     color: black;
     font-weight: bold;
+    font-size: large;
 }
 
 div.stage-name{
+}
+
+.pipeline-cell{
+    width: 28%;
 }
